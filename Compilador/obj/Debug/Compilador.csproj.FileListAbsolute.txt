@@ -1,0 +1,8 @@
+C:\Users\angel\source\repos\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\angel\source\repos\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\angel\source\repos\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\angel\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\angel\source\repos\Compilador\Compilador\obj\Debug\Compilador.pdb
